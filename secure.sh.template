@@ -1,0 +1,3 @@
+export MAILSERVER="smtp://example.com:587"
+export FROM="test@example.com"
+export PASSWORD="secure"
