@@ -8,7 +8,7 @@ if [[ -z "$1" ]]; then
 fi
 
 if [[ -z "$2" ]]; then
-  echo "Expected target address as first parameter"
+  echo "Expected target address as second parameter"
   exit 1
 fi
 
